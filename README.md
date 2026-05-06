@@ -1,5 +1,7 @@
 # olist-supply-chain-analysis
 Analysis and visualization of a Brazilian e-commerce store
+## Dashboard Preview
+![Dashboard](dashboard-screenshot.png)
 Olist Supply Chain & Delivery Analysis
 Project Overview
 This project analyzes a real-world Brazilian e-commerce dataset to uncover insights into delivery performance, customer satisfaction, and revenue trends.
