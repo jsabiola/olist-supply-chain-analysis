@@ -2,6 +2,12 @@
 Analysis and visualization of a Brazilian e-commerce store
 ## Dashboard Preview
 ![Dashboard](dashboard-screenshot.png)
+![Bahia State](Bahia State.png)
+![Minas Gerias ](Minas G.png)
+![Rio de Janeiro](Rio de Janeiro.png)
+![Sao Paulo](Sao Paulo.png)
+
+![Customer Insight](images/customer_insight.png)
 Olist Supply Chain & Delivery Analysis
 Project Overview
 This project analyzes a real-world Brazilian e-commerce dataset to uncover insights into delivery performance, customer satisfaction, and revenue trends.
