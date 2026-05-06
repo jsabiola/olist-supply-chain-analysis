@@ -4,13 +4,9 @@ Analysis and visualization of a Brazilian e-commerce store
 ![Dashboard](dashboard-screenshot.png)
 
 ## States' Dashboard Preview
-
 ![Bahia State](Bahia State.png)
-
 ![Minas Gerias ](Minas G.png)
-
 ![Rio de Janeiro](Rio de Janeiro.png)
-
 ![Sao Paulo](Sao Paulo.png)
 
 Olist Supply Chain & Delivery Analysis
