@@ -5,7 +5,7 @@ Analysis and visualization of a Brazilian e-commerce store
 
 ## States' Dashboard Preview
 ### Bahia State
-![Dashboard](main/Bahia State.png)
+![Dashboard](main/Bahia%20State.png)
 ### Minas Gerias State
 ![Minas Gerias ](Minas G.png)
 ### Rio de Janeiro State
