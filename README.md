@@ -14,8 +14,8 @@ Objectives
 •	Explore customer satisfaction trends
 ________________________________________
 Tools Used
-•	Python (Pandas, Matplotlib)
-•	Power BI
+•	Python (Pandas, Numpy, Matplotlib)
+•	Power BI (DAX, Dashboard Design)
 •	Jupyter Notebook
 ________________________________________
 Dataset
